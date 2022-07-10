@@ -2,14 +2,18 @@
 
 @Created by Elyayoveloz """
 
-import random
-import os
-import tkinter as tk
-from tkinter import *
+
+import pyedifice
+from pyedifice import *
 from functools import partial
 from copy import deepcopy
 
-os.system("clear")
+
+
+
+
+
+
 
 
 
