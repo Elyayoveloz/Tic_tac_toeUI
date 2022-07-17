@@ -1,4 +1,4 @@
-""" Tic Tac Toe with UI applied with Minimax ALgorithm
+""" Tic Tac Toe with UI applied with Minimax Recursive Algorithm
 
 @Created by Elyayoveloz """
 

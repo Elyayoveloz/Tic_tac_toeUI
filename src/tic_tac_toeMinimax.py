@@ -11,17 +11,23 @@ import sys
 import os
 import copy
 
-os.system("Clear")
+
+os.system("clear")
+
 
 min, max = -1, 1
-
-global jugada_bot
 
 tablero = [
     [0, 0, 0]
     [0, 0, 0]
     [0, 0, 0]
 ]
+
+def juego_inicio(setup):
+    """  """
+
+
+
 
 
 
