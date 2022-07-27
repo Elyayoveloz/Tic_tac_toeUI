@@ -14,7 +14,6 @@ import copy
 
 os.system("clear")
 
-
 min, max = -1, 1
 
 tablero = [
